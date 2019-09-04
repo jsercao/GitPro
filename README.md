@@ -41,9 +41,12 @@
 ## Todo
 
 - [ ] `Contributors`展示
+- [ ] `Commits`展示
+- [ ] `Pull requests`展示
+- [ ] `watch`、`stars`、`forks`展示
 - [ ] 支持`Branch`的切换查看，默认展示主分支
 - [ ] 个人认证登录相关
-- [ ] 支持`Star`、`Fork`、`Watch`功能
+- [ ] 支持操作`Star`、`Fork`、`Watch`功能
 - [ ] 完善`markdown`的展示
 - [ ] ...
 
