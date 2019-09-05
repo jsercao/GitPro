@@ -40,8 +40,8 @@
 
 ## Todo
 
-- [ ] `Contributors`展示
-- [ ] `Commits`展示
+- [x] `Contributors`展示
+- [x] `Commits`展示
 - [ ] `Pull requests`展示
 - [ ] `watch`、`stars`、`forks`展示
 - [ ] 支持`Branch`的切换查看，默认展示主分支
@@ -51,6 +51,13 @@
 - [ ] ...
 
 ## 更新日志
+
+- v1.2.0
+  - 完成【Contributors】功能
+  - 完成【Commits】功能
+  - fix issue icon
+  - fix trending api 引起的异常
+  - fix bar style
 
 - v1.1.0
   - 支持`发现`功能，可以进行Repositories查询
